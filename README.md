@@ -6,9 +6,7 @@
 
 ## UI
 
-1) 번역할 언어 선택 UI
-2) 번역할 텍스트 입력 UI
-3) 텍스트 스캐너 UI
+다양한 언어를 텍스트 또는 이미지로 원하는 언어로 번역할 수 있는 심플한 번역 UI입니다.
 
 <img src="https://user-images.githubusercontent.com/103208820/210184541-8708f021-5539-46ae-ad31-769bd66584bc.gif"  width="350" height="600"/>
 
