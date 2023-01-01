@@ -6,6 +6,10 @@
 
 ## UI
 
+1) 번역할 언어 선택 UI
+2) 번역할 텍스트 입력 UI
+3) 텍스트 스캐너 UI
+
 <img src="https://user-images.githubusercontent.com/103208820/210184541-8708f021-5539-46ae-ad31-769bd66584bc.gif"  width="350" height="600"/>
 
 1) 
