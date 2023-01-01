@@ -10,13 +10,8 @@
 
 <img src="https://user-images.githubusercontent.com/103208820/210184541-8708f021-5539-46ae-ad31-769bd66584bc.gif"  width="350" height="600"/>
 
-1) 
+## 어플 소개
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. 첫번째
+2. 두번째
+3. 
