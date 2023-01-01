@@ -10,9 +10,7 @@
 
 <img src="https://user-images.githubusercontent.com/103208820/210184541-8708f021-5539-46ae-ad31-769bd66584bc.gif"  width="350" height="600"/>
 
-## 어플 소개
+## 주요 기능
 
-> 주요기능
-1. 텍스트 번역
-2. 음성 번역
-3. 이미지 번역
+> 텍스트 번역
+> <img src="https://user-images.githubusercontent.com/103208820/210185117-0c443fbc-0ad6-4440-b639-18e7dc800733.gif"  width="300" height="500"/>
