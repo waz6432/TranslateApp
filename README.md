@@ -2,9 +2,10 @@
 
 다양한 언어로의 번역이 가능한 심플한 번역 어플 입니다.
 
-## Getting Started
+디자인 : https://dribbble.com/shots/17501384-Quari-Translate
+## UI
 
-This project is a starting point for a Flutter application.
+1) 
 
 A few resources to get you started if this is your first Flutter project:
 
