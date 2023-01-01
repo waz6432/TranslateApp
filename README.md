@@ -1,4 +1,4 @@
-# quick_translate
+# Translate
 
 A new Flutter project.
 
