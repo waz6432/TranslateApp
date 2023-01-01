@@ -5,11 +5,9 @@
 디자인 출처 : https://dribbble.com/shots/17501384-Quari-Translate
 ## UI
 
-<img src="https://user-images.githubusercontent.com/103208820/210184179-f11b8f86-ab39-4a11-b5fb-e84e3cd0504b.png"  width="30" height="30"/>
+<img src="https://user-images.githubusercontent.com/103208820/210184179-f11b8f86-ab39-4a11-b5fb-e84e3cd0504b.png"  width="200" height="400"/> <img src="https://user-images.githubusercontent.com/103208820/210184184-4c9b1998-9fe0-4701-8cef-9b12ff4ee8e8.png"  width="200" height="400"/>
 
-<img src="https://user-images.githubusercontent.com/103208820/210184184-4c9b1998-9fe0-4701-8cef-9b12ff4ee8e8.png"  width="30" height="30"/>
-
-<img src="https://user-images.githubusercontent.com/103208820/210184188-76d1be59-c5b9-4dbb-868e-854065670ed1.png"  width="30" height="30"/>
+<img src="https://user-images.githubusercontent.com/103208820/210184188-76d1be59-c5b9-4dbb-868e-854065670ed1.png"  width="200" height="400"/>
 
 1) 
 
