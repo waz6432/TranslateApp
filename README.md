@@ -6,7 +6,7 @@
 
 ## UI
 
-<img src="https://user-images.githubusercontent.com/103208820/210184541-8708f021-5539-46ae-ad31-769bd66584bc.gif"  width="400" height="600"/>
+<img src="https://user-images.githubusercontent.com/103208820/210184541-8708f021-5539-46ae-ad31-769bd66584bc.gif"  width="350" height="600"/>
 
 1) 
 
