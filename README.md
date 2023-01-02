@@ -18,6 +18,7 @@
 </div>
 <div align=center>
 	<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Java&logoColor=white" />
+	<img src="https://img.shields.io/badge/Git Hub-181717?style=flat&logo=Java&logoColor=white" />
 </div>
 
 디자인 출처 : https://dribbble.com/shots/17501384-Quari-Translate
