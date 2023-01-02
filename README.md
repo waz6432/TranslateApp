@@ -27,7 +27,7 @@
 
 ## 어플 UI
 
-<img src="https://user-images.githubusercontent.com/103208820/210184541-8708f021-5539-46ae-ad31-769bd66584bc.gif"  width="20" height="400"/>
+<img src="https://user-images.githubusercontent.com/103208820/210184541-8708f021-5539-46ae-ad31-769bd66584bc.gif"  width="200" height="400"/>
 
 ## 주요 기능
 
