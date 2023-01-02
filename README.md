@@ -1,7 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=SimpleTranslate&fontSize=90" />
 
 <div align=Center>
-	<h3>📚 Tech Stack 📚</h3>
 	<p>✨ Platforms & Languages ✨</p>	
 </div>
 <div align="Center">
