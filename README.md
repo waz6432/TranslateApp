@@ -4,6 +4,7 @@
 
 다양한 언어로의 번역이 가능한 심플한 번역 어플 입니다.
 
+<img src="https://img.shields.io/badge/아이콘내용-바탕색?style=flat&logo=로고이름&logoColor=white"/>
 디자인 출처 : https://dribbble.com/shots/17501384-Quari-Translate
 
 ## 어플 UI
