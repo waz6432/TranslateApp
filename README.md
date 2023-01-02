@@ -16,4 +16,4 @@
 <img src="https://user-images.githubusercontent.com/103208820/210185117-0c443fbc-0ad6-4440-b639-18e7dc800733.gif"  width="350" height="600"/>
 
 > 음성 번역
-> 
+<img src="https://user-images.githubusercontent.com/103208820/210200976-08ffbb69-675e-4640-afa2-05eecae9ff04.gif"  width="350" height="600"/>
