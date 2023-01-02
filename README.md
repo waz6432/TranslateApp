@@ -4,24 +4,27 @@
 
 다양한 언어로의 번역이 가능한 심플한 번역 어플 입니다.
 
-<div align=left>
+<div align=Center>
 	<h3>📚 Tech Stack 📚</h3>
 	<p>✨ Platforms & Languages ✨</p>
 </div>
-<div align="left">
+<div align="Center">
 	<img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=Java&logoColor=white" />
 	<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Java&logoColor=white" />
 	<img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=Java&logoColor=white" />
 </div>
-<div align=left>
+<div align=Center>
 	<p>🛠 Tools 🛠</p>
 </div>
-<div align=left>
+<br>
+<div align=Center>
 	<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Java&logoColor=white" />
 	<img src="https://img.shields.io/badge/Git Hub-181717?style=flat&logo=Java&logoColor=white" />
 </div>
+<div align=Center>
+	디자인 출처 : https://dribbble.com/shots/17501384-Quari-Translate	
+</div>
 
-디자인 출처 : https://dribbble.com/shots/17501384-Quari-Translate
 
 ## 어플 UI
 
