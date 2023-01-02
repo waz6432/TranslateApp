@@ -1,9 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=SimpleTranslate&fontSize=90" />
 
-# TranslateApp <img src="https://user-images.githubusercontent.com/103208820/210183768-6358c59d-efc3-4d43-ba6b-a1137a7e4e5d.png"  width="30" height="30"/>
-
-다양한 언어로의 번역이 가능한 심플한 번역 어플 입니다.
-
 <div align=Center>
 	<h3>📚 Tech Stack 📚</h3>
 	<p>✨ Platforms & Languages ✨</p>
@@ -21,6 +17,10 @@
 	<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Java&logoColor=white" />
 	<img src="https://img.shields.io/badge/Git Hub-181717?style=flat&logo=Java&logoColor=white" />
 </div>
+
+# TranslateApp <img src="https://user-images.githubusercontent.com/103208820/210183768-6358c59d-efc3-4d43-ba6b-a1137a7e4e5d.png"  width="30" height="30"/>
+
+다양한 언어로의 번역이 가능한 심플한 번역 어플 입니다.
 
 디자인 출처 : https://dribbble.com/shots/17501384-Quari-Translate	
 
