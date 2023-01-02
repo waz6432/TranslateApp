@@ -8,15 +8,15 @@
 	<h3>📚 Tech Stack 📚</h3>
 	<p>✨ Platforms & Languages ✨</p>
 </div>
-<div align="center">
+<div align="left">
 	<img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=Java&logoColor=white" />
 	<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Java&logoColor=white" />
 	<img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=Java&logoColor=white" />
 </div>
-<div align=center>
+<div align=left>
 	<p>🛠 Tools 🛠</p>
 </div>
-<div align=center>
+<div align=left>
 	<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Java&logoColor=white" />
 	<img src="https://img.shields.io/badge/Git Hub-181717?style=flat&logo=Java&logoColor=white" />
 </div>
