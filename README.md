@@ -4,7 +4,7 @@
 
 다양한 언어로의 번역이 가능한 심플한 번역 어플 입니다.
 
-<div align=center>
+<div align=left>
 	<h3>📚 Tech Stack 📚</h3>
 	<p>✨ Platforms & Languages ✨</p>
 </div>
