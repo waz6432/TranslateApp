@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=내용입력&fontSize=90" />
+
 # TranslateApp <img src="https://user-images.githubusercontent.com/103208820/210183768-6358c59d-efc3-4d43-ba6b-a1137a7e4e5d.png"  width="30" height="30"/>
 
 다양한 언어로의 번역이 가능한 심플한 번역 어플 입니다.
