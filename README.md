@@ -34,10 +34,10 @@
 * 텍스트 번역 : 번역하고 싶은 문구를 텍스트로 입력받아 원하는 언어로 번역이 가능합니다.
 <img src="https://user-images.githubusercontent.com/103208820/210185117-0c443fbc-0ad6-4440-b639-18e7dc800733.gif"  width="250" height="400"/>
 
-> 음성 번역 : 번역이 필요한 내용을 음성으로 말하면 해당 내용을 번역 할 수 있습니다.
-> <img src="https://user-images.githubusercontent.com/103208820/210200976-08ffbb69-675e-4640-afa2-05eecae9ff04.gif"  width="200" height="400"/>
+* 음성 번역 : 번역이 필요한 내용을 음성으로 말하면 해당 내용을 번역 할 수 있습니다.
+<img src="https://user-images.githubusercontent.com/103208820/210200976-08ffbb69-675e-4640-afa2-05eecae9ff04.gif"  width="200" height="400"/>
 
-> 이미지 번역 : 카메라로 찰칵 찍고 버튼만 누르면 이미지 속 문자를 자동으로 인식하여 번역 할 수 있습니다.
+* 이미지 번역 : 카메라로 찰칵 찍고 버튼만 누르면 이미지 속 문자를 자동으로 인식하여 번역 할 수 있습니다.
 <div align=left>
 	<img src="https://user-images.githubusercontent.com/103208820/210203016-d75d4ef0-00b8-47a1-8789-79c4e3c60b45.gif"  width="200" height="400"/>
 	<img src="https://user-images.githubusercontent.com/103208820/210203013-2d94f52d-d686-418f-b114-46eb926e64d4.gif"  width="200" height="400"/>
