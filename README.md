@@ -42,9 +42,7 @@
 <div align=Center>
 	<img src="https://user-images.githubusercontent.com/103208820/210203016-d75d4ef0-00b8-47a1-8789-79c4e3c60b45.gif"  width="200" height="400"/>
 	
-	
 	<img src="https://user-images.githubusercontent.com/103208820/210203013-2d94f52d-d686-418f-b114-46eb926e64d4.gif"  width="200" height="400"/>
-	
 	
 	<img src="https://user-images.githubusercontent.com/103208820/210203015-bb42d00d-40b6-4058-8630-55ca546afd1c.gif"  width="200" height="400"/>
 </div>
