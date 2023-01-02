@@ -26,8 +26,6 @@
 
 ## 어플 UI
 
-다양한 언어의 텍스트 또는 이미지를 이용해 원하는 언어로 번역할 수 있는 심플한 번역 어플 UI입니다.
-
 <img src="https://user-images.githubusercontent.com/103208820/210184541-8708f021-5539-46ae-ad31-769bd66584bc.gif"  width="350" height="600"/>
 
 ## 주요 기능
