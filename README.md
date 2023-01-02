@@ -2,20 +2,20 @@
 
 <div align=Center>
 	<h3>📚 Tech Stack 📚</h3>
-	<p>✨ Platforms & Languages ✨</p>	<p>🛠 Tools 🛠</p>
+	<p>✨ Platforms & Languages ✨</p>	
 </div>
 <div align="Center">
-	<img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=Java&logoColor=white" />  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Java&logoColor=white" />
-	<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Java&logoColor=white" />  <img src="https://img.shields.io/badge/Git Hub-181717?style=flat&logo=Java&logoColor=white" />
+	<img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=Java&logoColor=white" />  
+	<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Java&logoColor=white" />  
 	<img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=Java&logoColor=white" />
 </div>
 <br>
 <div align=Center>
-	
+	<p>🛠 Tools 🛠</p>
 </div>
 <div align=Center>
-	
-	
+	<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Java&logoColor=white" />
+	<img src="https://img.shields.io/badge/Git Hub-181717?style=flat&logo=Java&logoColor=white" />
 </div>
 
 # TranslateApp <img src="https://user-images.githubusercontent.com/103208820/210183768-6358c59d-efc3-4d43-ba6b-a1137a7e4e5d.png"  width="30" height="30"/>
