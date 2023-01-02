@@ -4,12 +4,13 @@
 
 다양한 언어로의 번역이 가능한 심플한 번역 어플 입니다.
 
-Platforms & Languages
-
+<div align=center>
+	<h3>📚 Tech Stack 📚</h3>
+	<p>✨ Platforms & Languages ✨</p>
+</div>
 <div align="center">
-	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
-	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
-	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
+	<img src="https://img.shields.io/badge/Flutter-#02569B?style=flat&logo=Java&logoColor=white" />
+	
 </div>
 
 디자인 출처 : https://dribbble.com/shots/17501384-Quari-Translate
